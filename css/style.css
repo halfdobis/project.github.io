@@ -138,6 +138,12 @@ ul#trainings li{
   background:#e6e6e6;
 }
 
+aside a{
+  color:#ffffff;
+  text-decoration:blueviolet;
+  font-size:14px;
+}
+
   footer{
     padding:20px;
     margin-top:20px;
